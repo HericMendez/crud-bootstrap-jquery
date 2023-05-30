@@ -1,0 +1,11 @@
+html, body{
+    font-family: 'Pangolin', sans-serif;
+    background-image: url('http://www.publicdomainpictures.net/pictures/30000/velka/cork-board.jpg');
+    background-size: cover;
+    background-position: center center;
+    word-break: break-all;}
+
+.navbar{
+    z-index: 10;
+
+}
